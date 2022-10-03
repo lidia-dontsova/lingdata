@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-03T21:30:19+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-03T22:57:18+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1463,8 +1463,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a234" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
-                <ANNOTATION_VALUE>CONJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a234" CVE_REF="cveid_8a74b182-866f-46f3-9126-0f6a9dace506">
+                <ANNOTATION_VALUE>PRAEDIC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
